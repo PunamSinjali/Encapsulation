@@ -1,0 +1,14 @@
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.AssemblyInfoInputs.cache
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.AssemblyInfo.cs
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.csproj.CoreCompileInputs.cache
+C:\Users\Punam Sinjali\Documents\classobj\bin\Debug\net10.0\classobj.exe
+C:\Users\Punam Sinjali\Documents\classobj\bin\Debug\net10.0\classobj.deps.json
+C:\Users\Punam Sinjali\Documents\classobj\bin\Debug\net10.0\classobj.runtimeconfig.json
+C:\Users\Punam Sinjali\Documents\classobj\bin\Debug\net10.0\classobj.dll
+C:\Users\Punam Sinjali\Documents\classobj\bin\Debug\net10.0\classobj.pdb
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.dll
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\refint\classobj.dll
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.pdb
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\classobj.genruntimeconfig.cache
+C:\Users\Punam Sinjali\Documents\classobj\obj\Debug\net10.0\ref\classobj.dll
